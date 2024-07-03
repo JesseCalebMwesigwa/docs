@@ -43,6 +43,7 @@ Arrow functions are limited and can't be used in all situations:
 - They cannot be used as [constructors](https://www.codecademy.com/resources/docs/javascript/constructors).
 - They cannot use `yield`, within its body.
 - They cannot use the special `arguments` keyword.
+- They cannot be generators
 
 ## Example
 
